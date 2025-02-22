@@ -1,3 +1,5 @@
+![Deploy](https://github.com/BookProjectPGUTI/back/actions/workflows/deploy.yml/badge.svg)
+
 ## Book Project
 
 Сервис по обмену книгами между пользователями. Пользователь помечает жанры книг, которые бы он хотел получить и такие же жанры для книг, которые он может отдать.
